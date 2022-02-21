@@ -13,9 +13,10 @@ Finished:
 | Pull down (over hand grip, 1.5x shoulder width) | | kg |
 | Pull down (over hand grip, 1.5x shoulder width) | | kg |
 | Pull down (over hand grip, 1.5x shoulder width) | | kg |
-| Barbell Rows | | kg |
-| Barbell Rows | | kg |
-| Barbell Rows | | kg |
+| Dumbbell Chest Supported Incline Rows | | kg |
+| Dumbbell Chest Supported Incline Rows | | kg |
+| Dumbbell Chest Supported Incline Rows | | kg |
+| EZ-Bar Curls | | kg + EZ-Bar |
 | EZ-Bar Curls | | kg + EZ-Bar |
 | EZ-Bar Curls | | kg + EZ-Bar |
 | EZ-Bar Curls | | kg + EZ-Bar |
